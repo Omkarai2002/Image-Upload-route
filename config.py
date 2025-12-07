@@ -1,0 +1,14 @@
+CONF=dict()
+CONF[1]="/home/ubuntu/Mahindra/" #Mahindra BTS Nashik
+CONF[2]="value2"
+CONF[3]="value3"
+CONF[4]="value4"
+CONF[5]="value5"
+CONF[6]="value6"
+CONF[7]="value7"
+CONF[8]="value8"
+CONF[9]="value9"
+CONF[10]="value10"
+CONF[11]="value11"
+CONF[12]="/home/ubuntu/M_and_M/" #Mahindra V1 block MVML Chakan
+CONF[13]="/home/ubuntu/M_and_M/" #Mahindra V2 block MVML Chakan
