@@ -1,0 +1,9 @@
+uvicorn
+flask
+python-jose[cryptography]
+python-multipart
+python-dotenv
+fastapi
+
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTIsImVtYWlsIjoidjFibG9ja0BtYWhpbmRyYS5jb20iLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3NjQ3NTAzMzYsImV4cCI6MTc2NzM0MjMzNn0.1wZ-7D5vlO4kX6X-lMgoXJgXAia-faZ4l1mRHjKQjj0
